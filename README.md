@@ -13,10 +13,12 @@ Supermini parts are unprinted and untested that should allow the battery of eith
 
 Recomended print layout, no supports.
 Recommended layer height is .2mm others seem to work as well.
-<img width="1230" height="908" alt="Snapshot_2025-11-16_15-28-19" src="https://github.com/user-attachments/assets/6b9245ad-1946-4549-aff3-cf25ed498a3a" />
+<img width="1188" height="890" alt="Snapshot_2025-11-16_15-35-13" src="https://github.com/user-attachments/assets/09aa6ecd-5d8e-4a56-b825-031a7186e56a" />
 
 
-![drip](https://github.com/user-attachments/assets/d5b9494a-435b-40ad-9af7-45aa60bdc3f8)
+![drip](https://github.com/user-attachments/assets/501fb29b-c9b8-4a03-a8df-9a8fad2c091a)
+
+
 
 
 <img width="1923" height="1082" alt="quarter" src="https://github.com/user-attachments/assets/b74e787e-9a7c-48e7-9653-c52032b53e22" />
