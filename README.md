@@ -11,7 +11,15 @@ Print the normal plate and if it has the tilt print “tilt fix.obj” at as low
 
 Supermini parts are unprinted and untested that should allow the battery of either the supermini or the Xiao.
 
+Recomended print layout, no supports.
 Recommended layer height is .2mm others seem to work as well.
+<img width="1230" height="908" alt="Snapshot_2025-11-16_15-28-19" src="https://github.com/user-attachments/assets/6b9245ad-1946-4549-aff3-cf25ed498a3a" />
+
+
+![drip](https://github.com/user-attachments/assets/d5b9494a-435b-40ad-9af7-45aa60bdc3f8)
+
 
 <img width="1923" height="1082" alt="quarter" src="https://github.com/user-attachments/assets/b74e787e-9a7c-48e7-9653-c52032b53e22" />
 <img width="1923" height="1082" alt="drip my brew 2 low v58" src="https://github.com/user-attachments/assets/6480c57c-9b94-49c7-bd86-3502dea07605" />
+
+
